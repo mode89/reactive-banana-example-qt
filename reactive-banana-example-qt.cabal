@@ -19,4 +19,6 @@ executable reactive-banana-example-qt
   default-language:    Haskell2010
   ghc-options:         -dynamic
   build-depends:       base >= 4.7 && < 5
+                     , hoppy-runtime
                      , qtah-qt5
+                     , reactive-banana
