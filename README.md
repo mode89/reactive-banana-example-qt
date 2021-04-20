@@ -5,7 +5,7 @@ Source code of [reactive-banana v1.2.1.0](https://github.com/HeinrichApfelmus/re
 ### Requirements
 
 * [Haskell Stack](https://docs.haskellstack.org/en/stable/README/)
-* Qt5 (tested on Qt 5.15, might not work on earlier versions)
+* Qt5 (tested on Qt 5.12 and 5.15, might not work on earlier versions)
 * Tested on Linux. Might work on other platforms as well.
 
 ### Usage
